@@ -1,20 +1,38 @@
-##📘 Overview
-    This project focuses on analyzing customer churn — identifying the key reasons why customers leave a service and building predictive      models to forecast future churn. By understanding churn patterns, businesses can proactively improve customer retention strategies.
+
 ---
 
-##🧰 Tools & Technologies
-    🐍 Python
-    📊 Pandas, NumPy, Matplotlib, Seaborn (Data Manipulation & Visualization)
-    🤖 Scikit-learn (Machine Learning Models)
-    💡 Logistic Regression, Decision Trees, Random Forest
-    📈 Classification Reports, Confusion Matrix
-    🔍 Key Highlights
+## 🚀 Key Highlights
+
+- 🔍 Performed Exploratory Data Analysis (EDA) on churn-related features
+- 📈 Visualized customer demographics, tenure, services, and churn trends
+- 📊 Created graphs and insights stored in the `plots/` directory
+- ✅ Clean and well-commented Jupyter notebook for reproducibility
+
 ---
 
-##🔍 Key Highlights
-    ✅ Replaced blank TotalCharges with 0 where tenure was 0
-    📊 Visualized churn distribution with pie charts and histograms
-    📉 Identified key features influencing churn like:
-        -Contract type
-        -Monthly charges
-        -Tenure
+## 🧠 Technologies Used
+
+- Python 🐍
+- Pandas & NumPy
+- Seaborn & Matplotlib
+- Jupyter Notebook
+
+---
+
+## 📸 Sample Plots
+
+_See the `plots/` folder for all visualizations._
+
+---
+
+## 🙌 Author
+
+**Jessica Vishesh Chandok**  
+Contributed as part of the **CREDORA April Internship Program**
+
+---
+
+## ⭐️ Give a Star!
+
+If you like this project, please consider starring it 🌟
+
