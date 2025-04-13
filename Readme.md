@@ -1,5 +1,5 @@
 📘 Overview
-    This project focuses on analyzing customer churn — identifying the key reasons why customers leave a service and building predictive models to forecast future churn. By understanding churn patterns, businesses can proactively improve customer retention strategies.
+    This project focuses on analyzing customer churn — identifying the key reasons why customers leave a service and building predictive      models to forecast future churn. By understanding churn patterns, businesses can proactively improve customer retention strategies.
 
 🧰 Tools & Technologies
     🐍 Python
