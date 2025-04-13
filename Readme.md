@@ -27,7 +27,7 @@ _See the `plots/` folder for all visualizations._
 
 ## 🙌 Author
 
-**Jessica Vishesh Chandok**  
+**Vishesh Chandok**  
 Contributed as part of the **CREDORA April Internship Program**
 
 ---
